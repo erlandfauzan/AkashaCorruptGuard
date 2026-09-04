@@ -113,7 +113,8 @@ AkashaCorruptGuard translates this conceptual lore into a tangible software engi
 
 ## ⏳ 8. Architecture & Test Flow Diagram
 
-<pre><code class="language-mermaid">graph TD
+```mermaid
+graph TD
     subgraph Governance Layer ["Governance & Strategy Layer"]
         TP["Test Plan Document <br> TEST_PLAN.md"]
     end
@@ -148,4 +149,4 @@ AkashaCorruptGuard translates this conceptual lore into a tangible software engi
     E --> G
     F --> G
     G --> H
-</code></pre>
+```
