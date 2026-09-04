@@ -1,0 +1,14 @@
+[
+  {
+    "manuscript_id": "SUMERU-2026-001",
+    "title": "Ecological Archives of Vana",
+    "access_level": "Student",
+    "is_corrupted": false
+  },
+  {
+    "manuscript_id": "SUMERU-2026-002",
+    "title": "Forbidden Archives of Khaenri'ah",
+    "access_level": "Grand Sage",
+    "is_corrupted": true
+  }
+]
